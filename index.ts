@@ -2,8 +2,11 @@
 //###########################           SSTech       ###################
 //###########################   Programming Courses  ###################
 //######################################################################
-let num20: number;
-let num10: nhmber;
-num20 = 120;
-num10 = 320;
-consol.log('num20');
+
+let mynumber;
+mynumber = 10;
+console.log((mynumber = mynumber + 10));
+
+let mynumber1;
+mynumber = 20;
+console.log((mynumber1 = -10));
